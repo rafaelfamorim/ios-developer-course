@@ -1,2 +1,2 @@
 # ios-developer-course
-some line of codes with the exercises during the classes
+some line of code with the exercises during the classes
