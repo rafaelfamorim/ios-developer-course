@@ -32,11 +32,11 @@ class ViewController: UIViewController {
     }
     
     @IBAction func reset(_ sender: AnyObject) {
-         if(timer.isValid){
+        
             timer.invalidate()
             time = 0
             timerLabel.text = "0"
-        }
+        
     }
     
     
